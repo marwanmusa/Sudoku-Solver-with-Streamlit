@@ -22,7 +22,7 @@ The solver engine is built using the Linear Programming library [Pyomo](https://
 
 >Open *command prompt / cmd* <br> `streamlit run app.py`
 
-## ***References***
+## ***References:***
 https://towardsdatascience.com/solve-sudoku-using-linear-programming-python-pulp-b41b29f479f3<br>
 https://github.com/Lakshmi-1212/Sudoku_Solver_LP<br>
 https://stackoverflow.com/questions/70218525/how-to-import-a-sudoku-board-in-txt-in-python<br>
