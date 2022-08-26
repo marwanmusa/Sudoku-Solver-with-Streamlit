@@ -29,3 +29,5 @@ https://stackoverflow.com/questions/45471152/how-to-create-a-sudoku-puzzle-in-py
 https://www.geeksforgeeks.org/reading-writing-text-files-python/<br>
 https://github.com/jhrcook/streamlit-sudoku<br>
 https://docs.streamlit.io/library/api-reference/performance/st.experimental_singleton.clear<br>
+https://pyomo.readthedocs.io/en/stable/solving_pyomo_models.html<br>
+http://most.ccib.rutgers.edu/glpk.pdf
