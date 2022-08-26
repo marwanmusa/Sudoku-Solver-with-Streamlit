@@ -31,4 +31,5 @@ https://github.com/jhrcook/streamlit-sudoku<br>
 https://docs.streamlit.io/library/api-reference/performance/st.experimental_singleton.clear<br>
 https://pyomo.readthedocs.io/en/stable/solving_pyomo_models.html<br>
 http://most.ccib.rutgers.edu/glpk.pdf<br>
-https://www.britannica.com/science/linear-programming-mathematics
+https://www.britannica.com/science/linear-programming-mathematics<br>
+https://github.com/mathcoding/opt4ds/blob/master/aa2020/notebooks/Sudoku.ipynb
