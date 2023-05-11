@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=FFDB4D)](https://www.python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B.svg?style=flat)](https://www.streamlit.io)
-![GitHub Action CI](https://github.com/jhrcook/streamlit-sudoku/workflows/CI/badge.svg)
+<!-- ![GitHub Action CI](https://github.com/jhrcook/streamlit-sudoku/workflows/CI/badge.svg) -->
 [![Heroku](https://img.shields.io/badge/Heroku-undeployed-430098.svg?style=flat&logo=heroku)](https://www.heroku.com)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
