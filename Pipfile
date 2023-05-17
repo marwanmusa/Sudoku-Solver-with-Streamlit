@@ -6,11 +6,12 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-pyomo = "*"
 glpk = "*"
 streamlit = "*"
 pyutilib = "*"
 ipykernel = "*"
+pyomo = {extras = ["optional"], version = "*"}
+setuptools-scm = "*"
 
 [dev-packages]
 
